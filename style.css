@@ -1,0 +1,195 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+.topnav {
+    overflow: hidden;
+}
+  
+.topnav img{
+    height: 5%;
+    width: 5%;
+    padding-left: 200px;
+    padding-top: 18px;
+}
+  
+.btns{
+    padding-right: 200px;
+    float: right;
+}
+  
+.topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: fantasy;
+}
+  
+.topnav a:hover {
+    color: #760091;
+    transition: 0.7s;
+}
+
+.topnav a.active {
+    color: #760091;
+}
+
+.mainpic{
+    width: 1481px;
+    height: 650px;
+    background: url("elmo.jpg");
+    background-size: cover;
+}
+
+.mainpic h1{
+    color: #f2f2f2;
+    padding-top: 200px;
+    padding-left: 150px;
+}
+
+.mainpic h1 u{
+    text-decoration-color: #760091;
+}
+
+.mainpic p{
+    padding-left: 150px;
+    color: #bebebe;
+}
+
+.mainpic button{
+    margin-left: 150px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 7px;
+    background-color: #760091;
+    color: #f2f2f2;
+}
+
+.mainpic button:hover{
+    background-color: #540066;
+    transition: 0.7s;
+}
+
+.storybox{
+    width: 1481px;
+    height: 650px;
+}
+
+.storybox img{
+    width: 30%;
+    height: 80%;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.story{
+    width: 500px;
+    height: 350px;
+    float: right;
+    margin-top: 200px;
+    margin-right: 300px;
+}
+
+.storybox .story h5{
+    color: #760091;
+}
+
+.storybox .story button{
+    padding: 10px 10px 10px 10px;
+    border-radius: 7px;
+    background-color: #760091;
+    color: #f2f2f2;
+}
+
+.storybox .story button:hover{
+    background-color: #540066;
+    transition: 0.7s;
+}
+
+.services1{
+    float: left;
+    margin-left: 150px;
+    width: 400px;
+}
+
+.services1 h5{
+    color: #760091;
+}
+
+.services2{
+    float: right;
+    width: 600px;
+    padding-right: 200px;
+}
+
+.services3{
+    width: 1481px;
+    height: 650px;
+    margin-top: 150px;
+    background: url("elmo.jpg");
+    background-size: cover;
+}
+
+.services3 p{
+    text-align: center;
+    padding-top: 250px;
+    color: #bebebe;
+}
+
+.process{
+    text-align: center;
+    width: 700px;
+    margin: auto;
+}
+
+.process h5{
+    color: #760091;
+}
+
+.um{
+    width: 500px;
+}
+
+.um0{
+    width: 500px;
+    float: right;
+}
+
+.um img{
+    width: 20%;
+    height: 20%;
+    padding-left: 150px;
+}
+
+.uh{
+    width: 500px;
+}
+
+.uh0{
+    width: 500px;
+    float: right;
+}
+
+.uh img{
+    width: 20%;
+    height: 20%;
+    padding-left: 150px;
+}
+
+.er{
+    width: 500px;
+}
+
+.er0{
+    width: 500px;
+    float: right;
+}
+
+.er img{
+    width: 20%;
+    height: 20%;
+    padding-left: 150px;
+}
