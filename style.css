@@ -149,47 +149,233 @@ body {
     color: #760091;
 }
 
-.um{
-    width: 500px;
+.cont1{
+    width: 1481px;
+    height: auto;
 }
 
-.um0{
-    width: 500px;
-    float: right;
-}
-
-.um img{
+.cont1 img{
     width: 20%;
     height: 20%;
-    padding-left: 150px;
+    padding-left: 400px;
+    float: left;
 }
 
-.uh{
-    width: 500px;
-}
-
-.uh0{
-    width: 500px;
+.cont1 h3{
     float: right;
+    padding-right: 600px;
 }
 
-.uh img{
+.cont1 .p{
+    width: 500px;
+    height: auto;
+    float: right;
+    padding-right: 175px;
+}
+
+.cont2{
+    width: 1481px;
+    height: auto;
+}
+
+.cont2 img{
     width: 20%;
     height: 20%;
-    padding-left: 150px;
-}
-
-.er{
-    width: 500px;
-}
-
-.er0{
-    width: 500px;
+    padding-right: 380px;
     float: right;
+    padding-top: 75px;
 }
 
-.er img{
+.cont2 h3{
+    float: left;
+    padding-left: 580px;
+    padding-top: 30px;
+}
+
+.cont2 .p{
+    width: 500px;
+    height: auto;
+    float: right;
+    padding-right: 105px;
+    text-align: right;
+}
+
+.cont3{
+    width: 1481px;
+    height: auto;
+}
+
+.cont3 img{
     width: 20%;
     height: 20%;
-    padding-left: 150px;
+    padding-left: 400px;
+    float: left;
+    padding-top: 75px;
+}
+
+.cont3 h3{
+    float: right;
+    padding-right: 600px;
+    padding-top: 30px;
+}
+
+.cont3 .p{
+    width: 500px;
+    height: auto;
+    float: right;
+    padding-right: 175px;
+}
+
+.portfolio{
+    width: 1481px;
+    height: auto;
+    margin-top: 700px;
+    text-align: center;
+}
+
+.portfolio h5{
+    color: #760091;
+}
+
+.portfolio .p{
+    width: 500px;
+    margin: auto;
+}
+
+.imgs1 img{
+    width: 20%;
+    height: 20%;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.imgs1 img:hover{
+    color: #bebebe;
+}
+
+.imgs2 img{
+    width: 20%;
+    height: 20%;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.imgs2 img:hover{
+    color: #bebebe;
+}
+
+.ready{
+    text-align: center;
+    width: 1481px;
+    height: 300px;
+    background-image: url("elmo.jpg");
+    color: #f2f2f2;
+    margin-top: 100px;
+}
+
+.ready h3{
+    padding-top: 100px;
+}
+
+.ready .p{
+    width: 500px;
+    margin: auto;
+    color: #bebebe;
+}
+
+.ready button{
+    padding: 10px 10px 10px 10px;
+    border-radius: 7px;
+    background-color: #760091;
+    color: #f2f2f2;
+    margin-top: 10px;
+}
+
+.ready button:hover{
+    background-color: #540066;
+    transition: 0.7s;
+}
+
+.pricing{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.pricing h5{
+    color: #760091;
+}
+
+.pricing .p{
+    width: 500px;
+    margin: auto;
+}
+
+.pricing .pricebox{
+    width: 1481px;
+    height: 650px;
+    background: url("elmo.jpg");
+    background-size: cover;
+}
+
+.pricing .pricebox p{
+    text-align: center;
+    padding-top: 250px;
+    color: #bebebe;
+}
+
+.team{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.team h5{
+    color: #760091;
+}
+
+.team .p{
+    width: 500px;
+    margin: auto;
+}
+
+.team .imgs img{
+    width: 20%; /* 800 x 450 */
+    height: 50%;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.pro{
+    float: left;
+    margin-left: 250px;
+}
+
+.pro h5{
+    color: #707070;
+}
+
+.cli{
+    float: left;
+    margin-left: 260px;
+}
+
+.cli h5{
+    color: #707070;
+}
+
+.mem{
+    float: left;
+    margin-left: 260px;
+}
+
+.mem h5{
+    color: #707070;
+}
+
+.emp{
+    float: left;
+    margin-left: 260px;
+}
+
+.emp h5{
+    color: #707070;
 }
