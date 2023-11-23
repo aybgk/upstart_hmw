@@ -129,14 +129,117 @@ body {
     width: 1481px;
     height: 650px;
     margin-top: 150px;
-    background: url("elmo.jpg");
-    background-size: cover;
 }
 
 .services3 p{
     text-align: center;
     padding-top: 250px;
     color: #bebebe;
+}
+
+.services3 .grow{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 200px;
+}
+
+.services3 .grow img{
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.services3 .grow h4{
+    margin-left: 20px;
+}
+
+.services3 .sale{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 50px;
+}
+
+.services3 .sale img{
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.services3 .sale h4{
+    margin-left: 20px;
+}
+
+.services3 .expert{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 50px;
+}
+
+.services3 .expert img{
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.services3 .expert h4{
+    margin-left: 20px;
+}
+
+.services3 .idea{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.services3 .idea img{
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.services3 .idea h4{
+    margin-left: 20px;
+}
+
+.services3 .conver{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.services3 .conver img{
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.services3 .conver h4{
+    margin-left: 20px;
+}
+
+.services3 .asdasd{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.services3 .asdasd img{
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.services3 .asdasd h4{
+    margin-left: 20px;
 }
 
 .process{
