@@ -379,3 +379,123 @@ body {
 .emp h5{
     color: #707070;
 }
+
+.blogs{
+    text-align: center;
+    margin: auto;
+    margin-top: 500px;
+}
+
+.blogs h5{
+    color: #760091;
+}
+
+.blogs .p{
+    width: 500px;
+    margin: auto;
+}
+
+.blogs .blogsbox{
+    width: 1481px;
+    height: 650px;
+    background: url("elmo.jpg");
+    background-size: cover;
+}
+
+.blogs .blogsbox p{
+    text-align: center;
+    padding-top: 250px;
+    color: #bebebe;
+}
+
+.contactus{
+    text-align: center;
+    margin: auto;
+    margin-top: 500px;
+}
+
+.contactus #us{
+    color: #760091;
+}
+
+.contactus .p{
+    width: 500px;
+    margin: auto;
+}
+
+.contactus .form{
+    width: 800px;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 100px;
+    float: left;
+}
+
+.contactus .form #name{
+    width: 300px;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 6px;
+    
+}
+
+.contactus .form #email{
+    width: 300px;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 6px;
+    margin-left: 25px;
+}
+
+.contactus .form #subj{
+    width: 650px;
+    height: 40px;
+    margin-top: 25px;
+    border-radius: 6px;
+    padding-left: 10px;
+}
+
+.contactus .form #msg{
+    width: 650px;
+    height: 100px;
+    margin-top: 25px;
+    border-radius: 6px;
+    padding-left: 10px;
+}
+
+.contactus .form button{
+    margin-left: 20px;
+    margin-top: 25px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 7px;
+    background-color: #760091;
+    color: #f2f2f2;
+}
+
+.contactus .info{
+    width: 500px;
+    float: right;
+    margin-top: 50px;
+    text-align: left;
+}
+
+.contactus .info h5{
+    color: #bebebe;
+}
+
+.footer{
+    width: 1481px;
+    height: 100px;
+    background-color: #540066;
+    margin-top: 500px;
+}
+
+.footer img{
+    width: 5%;
+    padding-left: 200px;
+    padding-top: 25px;
+}
+
+.footer i{
+    margin-left: 300px;
+}
