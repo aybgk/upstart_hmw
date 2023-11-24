@@ -416,8 +416,152 @@ body {
 .pricing .pricebox{
     width: 1481px;
     height: 650px;
-    background: url("elmo.jpg");
-    background-size: cover;
+    text-align: left;
+}
+
+.pricing .pricebox .basic{
+    width: 400px;
+    height: 500px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.pricing .pricebox .basic:hover{
+    margin-top: 50px;
+    border-radius: 7px;
+    border: 1px #bebebe;
+    box-shadow: 5px 10px #bebebe;
+    transition: 0.7s;
+}
+
+.pricing .pricebox .basic h3{
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.pricing .pricebox .basic h1{
+    margin-left: 30px;
+}
+
+.pricing .pricebox .basic ul{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.pricing .pricebox .basic ul li{
+    margin-top: 20px;
+}
+
+.pricing .pricebox .basic button{
+    margin-top: 50px;
+    margin-left: 22px;
+    padding: 10px 140px 10px 140px;
+    border-radius: 7px;
+    background-color: #760091;
+    color: #f2f2f2;
+}
+
+.pricing .pricebox .basic button:hover{
+    background-color: #540066;
+    transition: 0.7s;
+}
+
+.pricing .pricebox .standart{
+    width: 400px;
+    height: 500px;
+    float: left;
+    margin-left: 25px;
+    margin-top: 40px;
+}
+
+.pricing .pricebox .standart:hover{
+    margin-top: 50px;
+    border-radius: 7px;
+    border: 1px #bebebe;
+    box-shadow: 5px 10px #bebebe;
+    transition: 0.7s;
+}
+
+.pricing .pricebox .standart h3{
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.pricing .pricebox .standart h1{
+    margin-left: 30px;
+}
+
+.pricing .pricebox .standart ul{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.pricing .pricebox .standart ul li{
+    margin-top: 20px;
+}
+
+.pricing .pricebox .standart button{
+    margin-top: 50px;
+    margin-left: 22px;
+    padding: 10px 140px 10px 140px;
+    border-radius: 7px;
+    background-color: #760091;
+    color: #f2f2f2;
+}
+
+.pricing .pricebox .basic button:hover{
+    background-color: #540066;
+    transition: 0.7s;
+}
+
+.pricing .pricebox .pro{
+    width: 400px;
+    height: 500px;
+    float: left;
+    margin: 0;
+    margin-left: 25px;
+    margin-top: 40px;
+}
+
+.pricing .pricebox .pro:hover{
+    margin-top: 50px;
+    border-radius: 7px;
+    border: 1px #bebebe;
+    box-shadow: 5px 10px #bebebe;
+    transition: 0.7s;
+}
+
+.pricing .pricebox .pro h3{
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.pricing .pricebox .pro h1{
+    margin-left: 30px;
+}
+
+.pricing .pricebox .pro ul{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.pricing .pricebox .pro ul li{
+    margin-top: 20px;
+}
+
+.pricing .pricebox .pro button{
+    margin-top: 50px;
+    margin-left: 22px;
+    padding: 10px 140px 10px 140px;
+    border-radius: 7px;
+    background-color: #760091;
+    color: #f2f2f2;
+}
+
+.pricing .pricebox .basic button:hover{
+    background-color: #540066;
+    transition: 0.7s;
 }
 
 .pricing .pricebox p{
