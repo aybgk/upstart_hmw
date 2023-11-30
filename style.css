@@ -41,7 +41,7 @@ body {
 .mainpic{
     width: 1481px;
     height: 650px;
-    background: url("elmo.jpg");
+    background: url("1.jpg");
     background-size: cover;
 }
 
@@ -83,6 +83,7 @@ body {
     height: 80%;
     margin-left: 150px;
     margin-top: 50px;
+    border-radius: 5px;
 }
 
 .story{
@@ -144,8 +145,7 @@ body {
     margin-left: 200px;
 }
 
-.services3 .grow img{
-    width: 30%;
+.services3 .grow #grow{
     margin-top: 10px;
     margin-left: 20px;
 }
@@ -352,19 +352,11 @@ body {
     margin-left: 10px;
 }
 
-.imgs1 img:hover{
-    color: #bebebe;
-}
-
 .imgs2 img{
     width: 20%;
     height: 20%;
     margin-top: 20px;
     margin-left: 10px;
-}
-
-.imgs2 img:hover{
-    color: #bebebe;
 }
 
 .ready{
