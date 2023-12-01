@@ -143,11 +143,47 @@ body {
     height: 300px;
     float: left;
     margin-left: 200px;
+    border-radius: 10px;
+}
+
+.services3 .grow:hover{
+    box-shadow: 5px 10px #bebebe;
+    transition: 0.7s;
+}
+
+.services3 .grow .icon-div{
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+    background-color: #C3B1E1;
+    border-radius: 10px;
 }
 
 .services3 .grow #grow{
-    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    color: #540066;
+
+}
+
+.services3 .grow #grop{
+    padding-top: 0;
+    text-align: left;
     margin-left: 20px;
+}
+
+.services3 .grow a{
+    text-decoration: none;
+    color: #707070;
+    margin-left: 20px;
+}
+
+.services3 .grow a:hover{
+    color: #760091;
+    transition: 0.7s;
 }
 
 .services3 .grow h4{
@@ -159,12 +195,47 @@ body {
     height: 300px;
     float: left;
     margin-left: 50px;
+    border-radius: 10px;
 }
 
-.services3 .sale img{
-    width: 30%;
-    margin-top: 10px;
+.services3 .sale:hover{
+    box-shadow: 5px 10px #bebebe;
+    transition: 0.7s;
+}
+
+.services3 .sale .icon-div{
+    width: 60px;
+    height: 60px;
     margin-left: 20px;
+    background-color: #C3B1E1;
+    border-radius: 10px;
+}
+
+.services3 .sale #sale{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    color: #540066;
+
+}
+
+.services3 .sale #salp{
+    padding-top: 0;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.services3 .sale a{
+    text-decoration: none;
+    color: #707070;
+    margin-left: 20px;
+}
+
+.services3 .sale a:hover{
+    color: #760091;
+    transition: 0.7s;
 }
 
 .services3 .sale h4{
@@ -176,12 +247,47 @@ body {
     height: 300px;
     float: left;
     margin-left: 50px;
+    border-radius: 10px;
 }
 
-.services3 .expert img{
-    width: 30%;
-    margin-top: 10px;
+.services3 .expert:hover{
+    box-shadow: 5px 10px #bebebe;
+    transition: 0.7s;
+}
+
+.services3 .expert .icon-div{
+    width: 60px;
+    height: 60px;
     margin-left: 20px;
+    background-color: #C3B1E1;
+    border-radius: 10px;
+}
+
+.services3 .expert #expert{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    color: #540066;
+
+}
+
+.services3 .expert #exp{
+    padding-top: 0;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.services3 .expert a{
+    text-decoration: none;
+    color: #707070;
+    margin-left: 20px;
+}
+
+.services3 .expert a:hover{
+    color: #760091;
+    transition: 0.7s;
 }
 
 .services3 .expert h4{
@@ -194,12 +300,47 @@ body {
     float: left;
     margin-left: 200px;
     margin-top: 20px;
+    border-radius: 10px;
 }
 
-.services3 .idea img{
-    width: 30%;
-    margin-top: 10px;
+.services3 .idea:hover{
+    box-shadow: 5px 10px #bebebe;
+    transition: 0.7s;
+}
+
+.services3 .idea .icon-div{
+    width: 60px;
+    height: 60px;
     margin-left: 20px;
+    background-color: #C3B1E1;
+    border-radius: 10px;
+}
+
+.services3 .idea #idea{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    color: #540066;
+
+}
+
+.services3 .idea #idp{
+    padding-top: 0;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.services3 .idea a{
+    text-decoration: none;
+    color: #707070;
+    margin-left: 20px;
+}
+
+.services3 .idea a:hover{
+    color: #760091;
+    transition: 0.7s;
 }
 
 .services3 .idea h4{
@@ -212,12 +353,47 @@ body {
     float: left;
     margin-left: 50px;
     margin-top: 20px;
+    border-radius: 10px;
 }
 
-.services3 .conver img{
-    width: 30%;
-    margin-top: 10px;
+.services3 .conver:hover{
+    box-shadow: 5px 10px #bebebe;
+    transition: 0.7s;
+}
+
+.services3 .conver .icon-div{
+    width: 60px;
+    height: 60px;
     margin-left: 20px;
+    background-color: #C3B1E1;
+    border-radius: 10px;
+}
+
+.services3 .conver #conver{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    color: #540066;
+
+}
+
+.services3 .conver #cop{
+    padding-top: 0;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.services3 .conver a{
+    text-decoration: none;
+    color: #707070;
+    margin-left: 20px;
+}
+
+.services3 .conver a:hover{
+    color: #760091;
+    transition: 0.7s;
 }
 
 .services3 .conver h4{
@@ -230,12 +406,47 @@ body {
     float: left;
     margin-left: 50px;
     margin-top: 20px;
+    border-radius: 10px;
 }
 
-.services3 .asdasd img{
-    width: 30%;
-    margin-top: 10px;
+.services3 .asdasd:hover{
+    box-shadow: 5px 10px #bebebe;
+    transition: 0.7s;
+}
+
+.services3 .asdasd .icon-div{
+    width: 60px;
+    height: 60px;
     margin-left: 20px;
+    background-color: #C3B1E1;
+    border-radius: 10px;
+}
+
+.services3 .asdasd #asdasd{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    color: #540066;
+
+}
+
+.services3 .asdasd #asp{
+    padding-top: 0;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.services3 .asdasd a{
+    text-decoration: none;
+    color: #707070;
+    margin-left: 20px;
+}
+
+.services3 .asdasd a:hover{
+    color: #760091;
+    transition: 0.7s;
 }
 
 .services3 .asdasd h4{
@@ -345,37 +556,155 @@ body {
     margin: auto;
 }
 
-.imgs1 img{
-    width: 20%;
-    height: 20%;
-    margin-top: 40px;
-    margin-left: 10px;
+.imgs1{
+    display: flex;
+    justify-content: center;
 }
 
-.imgs2 img{
-    width: 20%;
-    height: 20%;
-    margin-top: 20px;
+.imgs1 .b1{
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
     margin-left: 10px;
+    background-image: url("b1.jpg");
+    background-size: cover;
+    float: left;
+}
+
+.imgs1 .b1:hover{
+    transform: rotate(3deg);
+    transition: 0.7s;
+}
+
+.imgs1 .b2{
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 10px;
+    background-image: url("b2.jpg");
+    background-size: cover;
+    float: left;
+}
+
+.imgs1 .b2:hover{
+    transform: rotate(3deg);
+    transition: 0.7s;
+}
+
+.imgs1 .b3{
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 10px;
+    background-image: url("b3.jpg");
+    background-size: cover;
+    float: left;
+}
+
+.imgs1 .b3:hover{
+    transform: rotate(3deg);
+    transition: 0.7s;
+}
+
+.imgs1 .b4{
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 10px;
+    background-image: url("b4.jpg");
+    background-size: cover;
+    float: left;
+}
+
+.imgs1 .b4:hover{
+    transform: rotate(3deg);
+    transition: 0.7s;
+}
+
+.imgs2{
+    display: flex;
+    justify-content: center;
+}
+
+.imgs2 .b1{
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 10px;
+    background-image: url("b3.jpg");
+    background-size: cover;
+    float: left;
+}
+
+.imgs2 .b1:hover{
+    transform: rotate(3deg);
+    transition: 0.7s;
+}
+
+.imgs2 .b2{
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 10px;
+    background-image: url("b4.jpg");
+    background-size: cover;
+    float: left;
+}
+
+.imgs2 .b2:hover{
+    transform: rotate(3deg);
+    transition: 0.7s;
+}
+
+.imgs2 .b3{
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 10px;
+    background-image: url("b1.jpg");
+    background-size: cover;
+    float: left;
+}
+
+.imgs2 .b3:hover{
+    transform: rotate(3deg);
+    transition: 0.7s;
+}
+
+.imgs2 .b4{
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 10px;
+    background-image: url("b2.jpg");
+    background-size: cover;
+    float: left;
+}
+
+.imgs2 .b4:hover{
+    transform: rotate(3deg);
+    transition: 0.7s;
 }
 
 .ready{
     text-align: center;
     width: 1481px;
     height: 300px;
-    background-image: url("elmo.jpg");
+    background-image: url("ban.jpg");
+    background-size: cover;
     color: #f2f2f2;
     margin-top: 100px;
 }
 
 .ready h3{
     padding-top: 100px;
+    color: #707070;
 }
 
 .ready .p{
     width: 500px;
     margin: auto;
-    color: #bebebe;
+    color: #929292;
 }
 
 .ready button{
@@ -576,11 +905,65 @@ body {
     margin: auto;
 }
 
-.team .imgs img{
-    width: 20%; /* 800 x 450 */
-    height: 50%;
+.team .imgs{
+    display: flex;
+    justify-content: center;
+}
+
+.team .imgs .per1{
+    width: 300px;
+    height: 200px;
     margin-top: 20px;
     margin-left: 10px;
+    background-image: url("per1.jpg");
+    background-size: cover;
+}
+
+.team .imgs .per1:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+}
+
+.team .imgs .per2{
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-image: url("per2.jpg");
+    background-size: cover;
+}
+
+.team .imgs .per2:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+}
+
+.team .imgs .per3{
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-image: url("per3.jpg");
+    background-size: cover;
+}
+
+.team .imgs .per3:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+}
+
+.team .imgs .per4{
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-image: url("per4.jpg");
+    background-size: cover;
+}
+
+.team .imgs .per4:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
 }
 
 .pro{
@@ -634,17 +1017,41 @@ body {
     margin: auto;
 }
 
-.blogs .blogsbox{
+.blogs .container{
     width: 1481px;
     height: 650px;
-    background: url("elmo.jpg");
-    background-size: cover;
 }
 
-.blogs .blogsbox p{
+.blogs .container .col-sm{
+    margin-left: 10px;
+    margin-top: 80px;
+    background-color: #F7F7F7;
+    border-radius: 10px;
+}
+
+.blogs .container .col-sm img{
+    width: 100%;
+}
+
+.blogs .container p{
     text-align: center;
-    padding-top: 250px;
     color: #bebebe;
+}
+
+.blogs .container h3:hover{
+    color: #760091;
+    transition: 0.7s;
+}
+
+.blogs .container a{
+    text-decoration: none;
+    color: #707070;
+    margin-left: 20px;
+}
+
+.blogs .container a:hover{
+    color: #760091;
+    transition: 0.7s;
 }
 
 .contactus{
